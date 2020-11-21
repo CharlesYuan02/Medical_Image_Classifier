@@ -1,5 +1,5 @@
 # Medical_Image_Classifier
-A CNN classifier trained on medical images from the Kvasir Dataset, along with a ResNet50 model trained using transfer learning for comparison.
+A CNN classifier trained on medical images from the Kvasir Dataset, along with a ResNet50 model trained using transfer learning for comparison. The CNN classifier is shown to perform better than the ResNet50 model, with an accuracy of 65% compared to the ResNet's 51%.
 
 Automatic detection is an important application of deep learning, and has the potential to improve medical practices and refine health care systems. This project was made as a demonstration of this application. Utilizing the Kvasir dataset, which contains images from the gastrointestinal tract, the images are classified into three anatomical landmarks and three clinically significant findings, as well as two categories of images related to endoscopic polyp removal, for a total of eight classes comprised of 8000 images. The sorting and annotation of the dataset was performed by trained endoscopists.
 
